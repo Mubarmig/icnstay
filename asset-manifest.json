@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/icnstay/static/css/main.697abe55.chunk.css",
-    "main.js": "/icnstay/static/js/main.ad94c7f2.chunk.js",
-    "main.js.map": "/icnstay/static/js/main.ad94c7f2.chunk.js.map",
+    "main.js": "/icnstay/static/js/main.031f442d.chunk.js",
+    "main.js.map": "/icnstay/static/js/main.031f442d.chunk.js.map",
     "runtime-main.js": "/icnstay/static/js/runtime-main.e0beb1b5.js",
     "runtime-main.js.map": "/icnstay/static/js/runtime-main.e0beb1b5.js.map",
     "static/js/2.228e7564.chunk.js": "/icnstay/static/js/2.228e7564.chunk.js",
@@ -14,12 +14,32 @@
     "static/media/photo1_1.9fc2f34c.jpg": "/icnstay/static/media/photo1_1.9fc2f34c.jpg",
     "static/media/photo1_2.5620a5fd.jpg": "/icnstay/static/media/photo1_2.5620a5fd.jpg",
     "static/media/photo1_3.55c7f4e7.jpg": "/icnstay/static/media/photo1_3.55c7f4e7.jpg",
-    "static/media/photo1_4.dcc81e8f.jpg": "/icnstay/static/media/photo1_4.dcc81e8f.jpg"
+    "static/media/photo1_4.dcc81e8f.jpg": "/icnstay/static/media/photo1_4.dcc81e8f.jpg",
+    "static/media/room_1002_1.44ac1619.jpg": "/icnstay/static/media/room_1002_1.44ac1619.jpg",
+    "static/media/room_1002_2.0604dd56.jpg": "/icnstay/static/media/room_1002_2.0604dd56.jpg",
+    "static/media/room_1002_3.eb85a697.jpg": "/icnstay/static/media/room_1002_3.eb85a697.jpg",
+    "static/media/room_1002_4.7113d01b.jpg": "/icnstay/static/media/room_1002_4.7113d01b.jpg",
+    "static/media/room_1002_5.267d4f67.jpg": "/icnstay/static/media/room_1002_5.267d4f67.jpg",
+    "static/media/room_1002_6.6613c24d.jpg": "/icnstay/static/media/room_1002_6.6613c24d.jpg",
+    "static/media/room_514_1.7af793f4.jpg": "/icnstay/static/media/room_514_1.7af793f4.jpg",
+    "static/media/room_514_2.45224210.jpg": "/icnstay/static/media/room_514_2.45224210.jpg",
+    "static/media/room_514_3.03d4fdad.jpg": "/icnstay/static/media/room_514_3.03d4fdad.jpg",
+    "static/media/room_514_4.d4a49042.jpg": "/icnstay/static/media/room_514_4.d4a49042.jpg",
+    "static/media/room_514_5.8a7ea1e8.jpg": "/icnstay/static/media/room_514_5.8a7ea1e8.jpg",
+    "static/media/room_514_6.a27e36c4.jpg": "/icnstay/static/media/room_514_6.a27e36c4.jpg",
+    "static/media/room_514_7.2651b8d4.jpg": "/icnstay/static/media/room_514_7.2651b8d4.jpg",
+    "static/media/room_514_8.420f9569.jpg": "/icnstay/static/media/room_514_8.420f9569.jpg",
+    "static/media/room_608_1.90c6053c.jpg": "/icnstay/static/media/room_608_1.90c6053c.jpg",
+    "static/media/room_608_2.d835b8a2.jpg": "/icnstay/static/media/room_608_2.d835b8a2.jpg",
+    "static/media/room_608_3.72ffcb9e.jpg": "/icnstay/static/media/room_608_3.72ffcb9e.jpg",
+    "static/media/room_608_4.3d2c3f17.jpg": "/icnstay/static/media/room_608_4.3d2c3f17.jpg",
+    "static/media/room_608_5.8e00c75f.jpg": "/icnstay/static/media/room_608_5.8e00c75f.jpg",
+    "static/media/room_608_6.80f45e24.jpg": "/icnstay/static/media/room_608_6.80f45e24.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e0beb1b5.js",
     "static/js/2.228e7564.chunk.js",
     "static/css/main.697abe55.chunk.css",
-    "static/js/main.ad94c7f2.chunk.js"
+    "static/js/main.031f442d.chunk.js"
   ]
 }
